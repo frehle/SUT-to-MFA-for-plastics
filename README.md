@@ -37,5 +37,5 @@ This folder includes all intermediary results calculated in SUT-to-MFA_main-pipe
   MFA dataframes:
   - df_MFA.csv: MFA dataset by products and industries at full SUT resolution, with markets
   - df_MFA_without-markets.csv: MFA dataset by products and industries at full SUT resolution, without markets (after market disaggregation)
-  - df_MFA_coloured&scaled.csv: MFA dataset by product archetypes and industry archetypes, without markets
+  - df_MFA_coloured&scaled.csv: MFA dataset by product archetypes and industry archetypes, without markets. The SUT-to-MFA_aggregated.html contains the Sankey diagram of this MFA format.
 
