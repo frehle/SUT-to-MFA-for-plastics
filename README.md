@@ -7,11 +7,10 @@ The aggregated MFA dataframe can be plotted into an interactive Sankey diagram u
 
 The following files are provided in the repository:
 
-Raw data:
+Raw data: Contains information licensed under the Open Government Licence – Canada. https://open.canada.ca/en/open-government-licence-canada
 - Canadian Supply-use tables for 2019: CA_SUT_C2019_D.xlsx
 - Canadian International Merchandise Trade data for imports and exports for 2019: CIMT_29_Imports_2019.csv and CIMT_29_Exports_2019.csv
 - Physical Flow Accounts For Plastic Materials (by resin) for 2019: 38100151.csv
-Contains information licensed under the Open Government Licence – Canada. https://open.canada.ca/en/open-government-licence-canada
 
 Mapping tables:
 - SI2_mapping_tables.xlsx : pre-compiled initial values for alpha_0 and gamma_0 and mapping tables for product archetypes, industry archetypes, and final demand groups, as well as filter sheets for packaging, custom transfer coefficients, degrees of fabrication and final products, (non-)durable products, and industries with outdoor activities
