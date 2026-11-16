@@ -1,0 +1,860 @@
+,Product,From,To,Quantity (t),Colour_HEX
+0,Buildings and infrastructure,Utilities & Construction,Capital formation,1003315.0829433573,#ad494a
+1,Buildings and infrastructure,Utilities & Construction,Final consumption expenditure,37303.45702895856,#ad494a
+2,Chemicals and synthetic products without Plastic resins,Agriculture,Capital formation,1361.8213771869525,#e7969c
+3,Chemicals and synthetic products without Plastic resins,Agriculture,Environment,25.855347465770233,#e7969c
+4,Chemicals and synthetic products without Plastic resins,International imports,Agriculture,605.1968434550839,#e7969c
+5,Chemicals and synthetic products without Plastic resins,International imports,Final consumption expenditure,18935.565498701602,#e7969c
+6,Chemicals and synthetic products without Plastic resins,International imports,International exports,54653.9346488387,#e7969c
+7,Chemicals and synthetic products without Plastic resins,International imports,Manufacturing,103207.38544965064,#e7969c
+8,Chemicals and synthetic products without Plastic resins,International imports,Mining,2006.8054307029458,#e7969c
+9,Chemicals and synthetic products without Plastic resins,International imports,Plastic product manufacturing,7362.434198963199,#e7969c
+10,Chemicals and synthetic products without Plastic resins,International imports,Plastic resin manufacturing,192.4770220304679,#e7969c
+11,Chemicals and synthetic products without Plastic resins,International imports,Private exports,33.67649809480132,#e7969c
+12,Chemicals and synthetic products without Plastic resins,International imports,Real estate,2178.0657188576506,#e7969c
+13,Chemicals and synthetic products without Plastic resins,International imports,Services,16690.859029114094,#e7969c
+14,Chemicals and synthetic products without Plastic resins,International imports,Utilities & Construction,51158.39758251875,#e7969c
+15,Chemicals and synthetic products without Plastic resins,International imports,Waste management services,347.976233573607,#e7969c
+16,Chemicals and synthetic products without Plastic resins,International imports,"Wholesale, Retail, Transport",4091.703707065289,#e7969c
+17,Chemicals and synthetic products without Plastic resins,Manufacturing,Agriculture,724.3662642792948,#e7969c
+18,Chemicals and synthetic products without Plastic resins,Manufacturing,Capital formation,32890.351985738685,#e7969c
+19,Chemicals and synthetic products without Plastic resins,Manufacturing,Final consumption expenditure,11534.611798834738,#e7969c
+20,Chemicals and synthetic products without Plastic resins,Manufacturing,International exports,33471.106941606995,#e7969c
+21,Chemicals and synthetic products without Plastic resins,Manufacturing,Manufacturing,65654.61197747083,#e7969c
+22,Chemicals and synthetic products without Plastic resins,Manufacturing,Mining,2446.5797401951486,#e7969c
+23,Chemicals and synthetic products without Plastic resins,Manufacturing,Plastic product manufacturing,7482.553318305106,#e7969c
+24,Chemicals and synthetic products without Plastic resins,Manufacturing,Plastic resin manufacturing,236.59463035995188,#e7969c
+25,Chemicals and synthetic products without Plastic resins,Manufacturing,Private exports,40.86691457015534,#e7969c
+26,Chemicals and synthetic products without Plastic resins,Manufacturing,Real estate,2679.503569296861,#e7969c
+27,Chemicals and synthetic products without Plastic resins,Manufacturing,Services,20496.67693616056,#e7969c
+28,Chemicals and synthetic products without Plastic resins,Manufacturing,Utilities & Construction,62980.69418604126,#e7969c
+29,Chemicals and synthetic products without Plastic resins,Manufacturing,Waste,14512.359767315751,#e7969c
+30,Chemicals and synthetic products without Plastic resins,Manufacturing,Waste management services,427.9912424297425,#e7969c
+31,Chemicals and synthetic products without Plastic resins,Manufacturing,"Wholesale, Retail, Transport",5023.139665558984,#e7969c
+32,Chemicals and synthetic products without Plastic resins,Mining,Capital formation,4483.729163284692,#e7969c
+33,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Agriculture,7.547864542182018,#e7969c
+34,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Final consumption expenditure,108.25831677748864,#e7969c
+35,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,International exports,293.0935833668994,#e7969c
+36,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Manufacturing,585.5381839380586,#e7969c
+37,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Mining,9.201864645699343,#e7969c
+38,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Plastic product manufacturing,79.1869747267441,#e7969c
+39,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Plastic resin manufacturing,2.461705165226839,#e7969c
+40,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Real estate,29.65254070752929,#e7969c
+41,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Services,203.71583380880648,#e7969c
+42,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Utilities & Construction,732.7619780984502,#e7969c
+43,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Waste,918.6331358959077,#e7969c
+44,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,Waste management services,4.658649510474946,#e7969c
+45,Chemicals and synthetic products without Plastic resins,Plastic product manufacturing,"Wholesale, Retail, Transport",47.09789623231294,#e7969c
+46,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Agriculture,52.978449894702166,#e7969c
+47,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Capital formation,444.1974034862536,#e7969c
+48,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Final consumption expenditure,7418.149483838808,#e7969c
+49,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,International exports,21201.806523868647,#e7969c
+50,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Manufacturing,38791.19006491134,#e7969c
+51,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Mining,63.49441544279456,#e7969c
+52,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Plastic product manufacturing,1347.118017189752,#e7969c
+53,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Plastic resin manufacturing,13.575498356522646,#e7969c
+54,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Private exports,0.33351821907546125,#e7969c
+55,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Real estate,162.13337775442196,#e7969c
+56,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Services,1135.5743853915737,#e7969c
+57,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Utilities & Construction,3980.1824076670355,#e7969c
+58,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,Waste management services,25.529731061793136,#e7969c
+59,Chemicals and synthetic products without Plastic resins,Plastic resin manufacturing,"Wholesale, Retail, Transport",263.781934911639,#e7969c
+60,Chemicals and synthetic products without Plastic resins,Private imports,Final consumption expenditure,163.88745029649036,#e7969c
+61,Chemicals and synthetic products without Plastic resins,Real estate,Capital formation,5042.624441177288,#e7969c
+62,Chemicals and synthetic products without Plastic resins,Services,Capital formation,38428.671560508854,#e7969c
+63,Chemicals and synthetic products without Plastic resins,Utilities & Construction,Capital formation,67201.70412971036,#e7969c
+64,Chemicals and synthetic products without Plastic resins,Utilities & Construction,Environment,298.74087456721486,#e7969c
+65,Chemicals and synthetic products without Plastic resins,Utilities & Construction,Waste,3191.7241026349366,#e7969c
+66,Chemicals and synthetic products without Plastic resins,Waste management services,Capital formation,804.9233925378243,#e7969c
+67,Chemicals and synthetic products without Plastic resins,"Wholesale, Retail, Transport",Capital formation,9395.905921891934,#e7969c
+68,Clothes and textiles,Agriculture,Capital formation,9434.899435483016,#7b4173
+69,Clothes and textiles,Agriculture,Environment,304.7833891628199,#7b4173
+70,Clothes and textiles,International imports,Agriculture,6528.002949334998,#7b4173
+71,Clothes and textiles,International imports,Capital formation,5910.921870300977,#7b4173
+72,Clothes and textiles,International imports,Final consumption expenditure,319970.2761619689,#7b4173
+73,Clothes and textiles,International imports,International exports,100537.33084144541,#7b4173
+74,Clothes and textiles,International imports,Manufacturing,82927.37269778925,#7b4173
+75,Clothes and textiles,International imports,Mining,1452.232927105614,#7b4173
+76,Clothes and textiles,International imports,Plastic product manufacturing,5351.490802765273,#7b4173
+77,Clothes and textiles,International imports,Plastic resin manufacturing,0.4841887463706314,#7b4173
+78,Clothes and textiles,International imports,Private exports,14917.823281876334,#7b4173
+79,Clothes and textiles,International imports,Real estate,562.6142784245726,#7b4173
+80,Clothes and textiles,International imports,Services,42466.239021015455,#7b4173
+81,Clothes and textiles,International imports,Utilities & Construction,33574.855800137586,#7b4173
+82,Clothes and textiles,International imports,Waste management services,123.53342586634732,#7b4173
+83,Clothes and textiles,International imports,"Wholesale, Retail, Transport",2799.6769747322633,#7b4173
+84,Clothes and textiles,Manufacturing,Agriculture,3091.5412102576424,#7b4173
+85,Clothes and textiles,Manufacturing,Capital formation,29635.147310354696,#7b4173
+86,Clothes and textiles,Manufacturing,Final consumption expenditure,57545.212698026226,#7b4173
+87,Clothes and textiles,Manufacturing,International exports,33712.03755839223,#7b4173
+88,Clothes and textiles,Manufacturing,Manufacturing,44088.89984963651,#7b4173
+89,Clothes and textiles,Manufacturing,Mining,734.2674987949723,#7b4173
+90,Clothes and textiles,Manufacturing,Plastic product manufacturing,2849.668995908556,#7b4173
+91,Clothes and textiles,Manufacturing,Plastic resin manufacturing,0.04113625354835269,#7b4173
+92,Clothes and textiles,Manufacturing,Private exports,1649.5072469767213,#7b4173
+93,Clothes and textiles,Manufacturing,Real estate,94.5385189411286,#7b4173
+94,Clothes and textiles,Manufacturing,Services,8605.718325263873,#7b4173
+95,Clothes and textiles,Manufacturing,Utilities & Construction,12810.365315310339,#7b4173
+96,Clothes and textiles,Manufacturing,Waste,5386.192859157664,#7b4173
+97,Clothes and textiles,Manufacturing,Waste management services,15.912893023874748,#7b4173
+98,Clothes and textiles,Manufacturing,"Wholesale, Retail, Transport",827.4360519475857,#7b4173
+99,Clothes and textiles,Mining,Capital formation,2135.6276085767227,#7b4173
+100,Clothes and textiles,Plastic product manufacturing,Capital formation,8335.816109471149,#7b4173
+101,Clothes and textiles,Plastic product manufacturing,Final consumption expenditure,226.734885898401,#7b4173
+102,Clothes and textiles,Plastic product manufacturing,International exports,102.5435080629954,#7b4173
+103,Clothes and textiles,Plastic product manufacturing,Manufacturing,270.69667134311084,#7b4173
+104,Clothes and textiles,Plastic product manufacturing,Plastic product manufacturing,29.858148679048682,#7b4173
+105,Clothes and textiles,Plastic product manufacturing,Real estate,3.7730351873743246,#7b4173
+106,Clothes and textiles,Plastic product manufacturing,Services,19.961165948689874,#7b4173
+107,Clothes and textiles,Plastic product manufacturing,Utilities & Construction,573.008933856979,#7b4173
+108,Clothes and textiles,Plastic product manufacturing,Waste management services,0.5218125119134688,#7b4173
+109,Clothes and textiles,Plastic resin manufacturing,Capital formation,0.510450206178766,#7b4173
+110,Clothes and textiles,Private imports,Final consumption expenditure,25862.176376017054,#7b4173
+111,Clothes and textiles,Real estate,Capital formation,664.3345350529371,#7b4173
+112,Clothes and textiles,Services,Capital formation,50741.700695538464,#7b4173
+113,Clothes and textiles,Utilities & Construction,Capital formation,3955.2461986296807,#7b4173
+114,Clothes and textiles,Utilities & Construction,Environment,231.0352440611778,#7b4173
+115,Clothes and textiles,Utilities & Construction,Waste,2613.3310279944794,#7b4173
+116,Clothes and textiles,Waste management services,Capital formation,138.5497579621813,#7b4173
+117,Clothes and textiles,"Wholesale, Retail, Transport",Capital formation,3602.0302561546646,#7b4173
+118,Consumer goods,Agriculture,Capital formation,839.9570293689234,#a55194
+119,Consumer goods,Agriculture,Environment,69.0055573326325,#a55194
+120,Consumer goods,International imports,Agriculture,698.6580898038003,#a55194
+121,Consumer goods,International imports,Capital formation,29866.649007327153,#a55194
+122,Consumer goods,International imports,Final consumption expenditure,224593.22474757943,#a55194
+123,Consumer goods,International imports,International exports,52063.42065559244,#a55194
+124,Consumer goods,International imports,Manufacturing,6090.333868391568,#a55194
+125,Consumer goods,International imports,Mining,280.81290884137724,#a55194
+126,Consumer goods,International imports,Plastic product manufacturing,56.03561567262364,#a55194
+127,Consumer goods,International imports,Plastic resin manufacturing,0.3876723350861799,#a55194
+128,Consumer goods,International imports,Private exports,5632.456219666241,#a55194
+129,Consumer goods,International imports,Real estate,1128.2879470748182,#a55194
+130,Consumer goods,International imports,Services,12141.163341486761,#a55194
+131,Consumer goods,International imports,Utilities & Construction,12915.306061314968,#a55194
+132,Consumer goods,International imports,Waste management services,188.33412783035553,#a55194
+133,Consumer goods,International imports,"Wholesale, Retail, Transport",316.034657708438,#a55194
+134,Consumer goods,Manufacturing,Agriculture,171.8749546182702,#a55194
+135,Consumer goods,Manufacturing,Capital formation,41191.81924897176,#a55194
+136,Consumer goods,Manufacturing,Final consumption expenditure,59352.03720160672,#a55194
+137,Consumer goods,Manufacturing,International exports,20594.05410911851,#a55194
+138,Consumer goods,Manufacturing,Manufacturing,4116.940810336791,#a55194
+139,Consumer goods,Manufacturing,Mining,23.506156921597672,#a55194
+140,Consumer goods,Manufacturing,Plastic product manufacturing,79.04693353791477,#a55194
+141,Consumer goods,Manufacturing,Plastic resin manufacturing,0.015129895727084319,#a55194
+142,Consumer goods,Manufacturing,Private exports,576.0540678368395,#a55194
+143,Consumer goods,Manufacturing,Real estate,109.97454093332611,#a55194
+144,Consumer goods,Manufacturing,Services,3692.7807649323563,#a55194
+145,Consumer goods,Manufacturing,Utilities & Construction,18702.812868009765,#a55194
+146,Consumer goods,Manufacturing,Waste,92.93037875774301,#a55194
+147,Consumer goods,Manufacturing,Waste management services,22.69469296058813,#a55194
+148,Consumer goods,Manufacturing,"Wholesale, Retail, Transport",136.86279719028846,#a55194
+149,Consumer goods,Mining,Capital formation,301.9438541861259,#a55194
+150,Consumer goods,Plastic product manufacturing,Capital formation,138.5249088174908,#a55194
+151,Consumer goods,Plastic resin manufacturing,Capital formation,0.397731970818132,#a55194
+152,Consumer goods,Private imports,Final consumption expenditure,12131.557869156233,#a55194
+153,Consumer goods,Real estate,Capital formation,1230.421709698222,#a55194
+154,Consumer goods,Services,Capital formation,17249.825685200976,#a55194
+155,Consumer goods,Utilities & Construction,Capital formation,22344.932414319548,#a55194
+156,Consumer goods,Utilities & Construction,Environment,46.874923427655574,#a55194
+157,Consumer goods,Utilities & Construction,Waste,499.9715032972258,#a55194
+158,Consumer goods,Waste management services,Capital formation,209.2824516202793,#a55194
+159,Consumer goods,"Wholesale, Retail, Transport",Capital formation,463.71495670196146,#a55194
+160,Foam products (except for construction),Agriculture,Waste,224.96767630512025,#bd9e39
+161,Foam products (except for construction),International imports,Agriculture,73.60696902107132,#bd9e39
+162,Foam products (except for construction),International imports,Final consumption expenditure,5687.5656813395935,#bd9e39
+163,Foam products (except for construction),International imports,International exports,16409.0745259476,#bd9e39
+164,Foam products (except for construction),International imports,Manufacturing,64600.766532941816,#bd9e39
+165,Foam products (except for construction),International imports,Mining,15.102013660703538,#bd9e39
+166,Foam products (except for construction),International imports,Plastic product manufacturing,17936.40378555997,#bd9e39
+167,Foam products (except for construction),International imports,Plastic resin manufacturing,192.64275962312075,#bd9e39
+168,Foam products (except for construction),International imports,Real estate,20.381579412006403,#bd9e39
+169,Foam products (except for construction),International imports,Services,16712.40399544978,#bd9e39
+170,Foam products (except for construction),International imports,Utilities & Construction,33.15076169422728,#bd9e39
+171,Foam products (except for construction),International imports,Waste management services,27.809805643490666,#bd9e39
+172,Foam products (except for construction),International imports,"Wholesale, Retail, Transport",41.00872002174783,#bd9e39
+173,Foam products (except for construction),Manufacturing,Agriculture,3.360530784087797,#bd9e39
+174,Foam products (except for construction),Manufacturing,Final consumption expenditure,259.6661676585472,#bd9e39
+175,Foam products (except for construction),Manufacturing,International exports,749.1573259462981,#bd9e39
+176,Foam products (except for construction),Manufacturing,Manufacturing,2949.352045014553,#bd9e39
+177,Foam products (except for construction),Manufacturing,Mining,0.6894833802215165,#bd9e39
+178,Foam products (except for construction),Manufacturing,Plastic product manufacturing,818.8876390216277,#bd9e39
+179,Foam products (except for construction),Manufacturing,Plastic resin manufacturing,8.795117264776904,#bd9e39
+180,Foam products (except for construction),Manufacturing,Real estate,0.9305222855022093,#bd9e39
+181,Foam products (except for construction),Manufacturing,Services,763.0058518880642,#bd9e39
+182,Foam products (except for construction),Manufacturing,Utilities & Construction,1.51350010292528,#bd9e39
+183,Foam products (except for construction),Manufacturing,Waste,85372.24962522411,#bd9e39
+184,Foam products (except for construction),Manufacturing,Waste management services,1.2696584196762069,#bd9e39
+185,Foam products (except for construction),Manufacturing,"Wholesale, Retail, Transport",1.8722556828779389,#bd9e39
+186,Foam products (except for construction),Mining,Waste,46.1568376739446,#bd9e39
+187,Foam products (except for construction),Plastic product manufacturing,Agriculture,147.64520539230983,#bd9e39
+188,Foam products (except for construction),Plastic product manufacturing,Final consumption expenditure,11408.455128253496,#bd9e39
+189,Foam products (except for construction),Plastic product manufacturing,International exports,32914.29073771134,#bd9e39
+190,Foam products (except for construction),Plastic product manufacturing,Manufacturing,129580.03257173151,#bd9e39
+191,Foam products (except for construction),Plastic product manufacturing,Mining,30.292510864477254,#bd9e39
+192,Foam products (except for construction),Plastic product manufacturing,Plastic product manufacturing,35977.897964529744,#bd9e39
+193,Foam products (except for construction),Plastic product manufacturing,Plastic resin manufacturing,386.4142239541854,#bd9e39
+194,Foam products (except for construction),Plastic product manufacturing,Real estate,40.8825756382376,#bd9e39
+195,Foam products (except for construction),Plastic product manufacturing,Services,33522.7269010503,#bd9e39
+196,Foam products (except for construction),Plastic product manufacturing,Utilities & Construction,66.49575555616958,#bd9e39
+197,Foam products (except for construction),Plastic product manufacturing,Waste,54819.688061773966,#bd9e39
+198,Foam products (except for construction),Plastic product manufacturing,Waste management services,55.78255049434226,#bd9e39
+199,Foam products (except for construction),Plastic product manufacturing,"Wholesale, Retail, Transport",82.25771242874312,#bd9e39
+200,Foam products (except for construction),Plastic resin manufacturing,Agriculture,0.14534123679427716,#bd9e39
+201,Foam products (except for construction),Plastic resin manufacturing,Final consumption expenditure,11.230428877433363,#bd9e39
+202,Foam products (except for construction),Plastic resin manufacturing,International exports,32.40067099581246,#bd9e39
+203,Foam products (except for construction),Plastic resin manufacturing,Manufacturing,127.5579667336703,#bd9e39
+204,Foam products (except for construction),Plastic resin manufacturing,Mining,0.029819803378975968,#bd9e39
+205,Foam products (except for construction),Plastic resin manufacturing,Plastic product manufacturing,35.416471354615474,#bd9e39
+206,Foam products (except for construction),Plastic resin manufacturing,Plastic resin manufacturing,0.38038432115132753,#bd9e39
+207,Foam products (except for construction),Plastic resin manufacturing,Real estate,0.04024461269032529,#bd9e39
+208,Foam products (except for construction),Plastic resin manufacturing,Services,32.999612656363354,#bd9e39
+209,Foam products (except for construction),Plastic resin manufacturing,Utilities & Construction,0.06545810497823994,#bd9e39
+210,Foam products (except for construction),Plastic resin manufacturing,Waste,588.7811244749519,#bd9e39
+211,Foam products (except for construction),Plastic resin manufacturing,Waste management services,0.054912076953967943,#bd9e39
+212,Foam products (except for construction),Plastic resin manufacturing,"Wholesale, Retail, Transport",0.08097410023234124,#bd9e39
+213,Foam products (except for construction),Real estate,Waste,62.29296791768134,#bd9e39
+214,Foam products (except for construction),Services,Waste,51078.732657127206,#bd9e39
+215,Foam products (except for construction),Utilities & Construction,Waste,101.31988757695156,#bd9e39
+216,Foam products (except for construction),Waste management services,Waste,84.99612791177604,#bd9e39
+217,Foam products (except for construction),"Wholesale, Retail, Transport",Waste,125.33645352111787,#bd9e39
+218,"Hardware, machinery, equipment, and vehicles",Agriculture,Capital formation,8330.299351972862,#d6616b
+219,"Hardware, machinery, equipment, and vehicles",Agriculture,Environment,162.69685633572865,#d6616b
+220,"Hardware, machinery, equipment, and vehicles",Agriculture,Waste,63.33588606810576,#d6616b
+221,"Hardware, machinery, equipment, and vehicles",International imports,Agriculture,5226.891166452827,#d6616b
+222,"Hardware, machinery, equipment, and vehicles",International imports,Capital formation,459573.7051950109,#d6616b
+223,"Hardware, machinery, equipment, and vehicles",International imports,Final consumption expenditure,324003.5314808607,#d6616b
+224,"Hardware, machinery, equipment, and vehicles",International imports,International exports,494038.94872652047,#d6616b
+225,"Hardware, machinery, equipment, and vehicles",International imports,Manufacturing,329092.8895495559,#d6616b
+226,"Hardware, machinery, equipment, and vehicles",International imports,Mining,11923.174400960323,#d6616b
+227,"Hardware, machinery, equipment, and vehicles",International imports,Plastic product manufacturing,1155.8641834162768,#d6616b
+228,"Hardware, machinery, equipment, and vehicles",International imports,Plastic resin manufacturing,80.77725568491363,#d6616b
+229,"Hardware, machinery, equipment, and vehicles",International imports,Private exports,190.92694799472125,#d6616b
+230,"Hardware, machinery, equipment, and vehicles",International imports,Real estate,9423.017352491235,#d6616b
+231,"Hardware, machinery, equipment, and vehicles",International imports,Services,173203.00345746177,#d6616b
+232,"Hardware, machinery, equipment, and vehicles",International imports,Utilities & Construction,118085.85538851265,#d6616b
+233,"Hardware, machinery, equipment, and vehicles",International imports,Waste management services,1298.9791057949105,#d6616b
+234,"Hardware, machinery, equipment, and vehicles",International imports,"Wholesale, Retail, Transport",39046.39616438207,#d6616b
+235,"Hardware, machinery, equipment, and vehicles",Manufacturing,Agriculture,2249.708021434707,#d6616b
+236,"Hardware, machinery, equipment, and vehicles",Manufacturing,Capital formation,405130.45833456516,#d6616b
+237,"Hardware, machinery, equipment, and vehicles",Manufacturing,Final consumption expenditure,264291.2555480695,#d6616b
+238,"Hardware, machinery, equipment, and vehicles",Manufacturing,International exports,439068.55054603156,#d6616b
+239,"Hardware, machinery, equipment, and vehicles",Manufacturing,Manufacturing,337857.4972479656,#d6616b
+240,"Hardware, machinery, equipment, and vehicles",Manufacturing,Mining,6612.589801785953,#d6616b
+241,"Hardware, machinery, equipment, and vehicles",Manufacturing,Plastic product manufacturing,1056.124776249772,#d6616b
+242,"Hardware, machinery, equipment, and vehicles",Manufacturing,Plastic resin manufacturing,45.03100039127456,#d6616b
+243,"Hardware, machinery, equipment, and vehicles",Manufacturing,Private exports,165.84950503596232,#d6616b
+244,"Hardware, machinery, equipment, and vehicles",Manufacturing,Real estate,3548.2104335061044,#d6616b
+245,"Hardware, machinery, equipment, and vehicles",Manufacturing,Services,78484.35929051929,#d6616b
+246,"Hardware, machinery, equipment, and vehicles",Manufacturing,Utilities & Construction,93083.22722700333,#d6616b
+247,"Hardware, machinery, equipment, and vehicles",Manufacturing,Waste,52186.59766426516,#d6616b
+248,"Hardware, machinery, equipment, and vehicles",Manufacturing,Waste management services,436.6549594546065,#d6616b
+249,"Hardware, machinery, equipment, and vehicles",Manufacturing,"Wholesale, Retail, Transport",32652.269347678855,#d6616b
+250,"Hardware, machinery, equipment, and vehicles",Mining,Capital formation,22454.222429472753,#d6616b
+251,"Hardware, machinery, equipment, and vehicles",Mining,Environment,0.8537216286760791,#d6616b
+252,"Hardware, machinery, equipment, and vehicles",Mining,Waste,122.72138153659346,#d6616b
+253,"Hardware, machinery, equipment, and vehicles",National stock,Capital formation,1990.920359223658,#d6616b
+254,"Hardware, machinery, equipment, and vehicles",National stock,Final consumption expenditure,19.71117667635516,#d6616b
+255,"Hardware, machinery, equipment, and vehicles",National stock,International exports,197.56137239366666,#d6616b
+256,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Agriculture,19.103792140547963,#d6616b
+257,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Capital formation,2394.5252824204326,#d6616b
+258,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Final consumption expenditure,340.18049486050563,#d6616b
+259,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,International exports,1166.211514653805,#d6616b
+260,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Manufacturing,5170.355367242534,#d6616b
+261,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Mining,42.227933243519246,#d6616b
+262,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Plastic product manufacturing,25.507069251793837,#d6616b
+263,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Plastic resin manufacturing,0.5147461872249591,#d6616b
+264,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Private exports,2.927204419588939,#d6616b
+265,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Real estate,0.9978771641276728,#d6616b
+266,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Services,193.14149688523088,#d6616b
+267,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Utilities & Construction,614.2817375640503,#d6616b
+268,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Waste,62.16281938159337,#d6616b
+269,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,Waste management services,0.11885238053891595,#d6616b
+270,"Hardware, machinery, equipment, and vehicles",Plastic product manufacturing,"Wholesale, Retail, Transport",406.15455799506634,#d6616b
+271,"Hardware, machinery, equipment, and vehicles",Plastic resin manufacturing,Capital formation,128.13681012731072,#d6616b
+272,"Hardware, machinery, equipment, and vehicles",Plastic resin manufacturing,Waste,25.03187767362353,#d6616b
+273,"Hardware, machinery, equipment, and vehicles",Private imports,Final consumption expenditure,10324.711568282244,#d6616b
+274,"Hardware, machinery, equipment, and vehicles",Real estate,Capital formation,13595.647588406688,#d6616b
+275,"Hardware, machinery, equipment, and vehicles",Services,Capital formation,166438.17644836276,#d6616b
+276,"Hardware, machinery, equipment, and vehicles",Services,Environment,0.057312071314657334,#d6616b
+277,"Hardware, machinery, equipment, and vehicles",Services,Waste,116759.87641945173,#d6616b
+278,"Hardware, machinery, equipment, and vehicles",Utilities & Construction,Capital formation,37889.34051629627,#d6616b
+279,"Hardware, machinery, equipment, and vehicles",Utilities & Construction,Environment,1097.4530070315604,#d6616b
+280,"Hardware, machinery, equipment, and vehicles",Utilities & Construction,Waste,12825.765040645254,#d6616b
+281,"Hardware, machinery, equipment, and vehicles",Waste management services,Capital formation,1851.919180492372,#d6616b
+282,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",Agriculture,9.80055265607071e-10,#d6616b
+283,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",Capital formation,74838.58895228032,#d6616b
+284,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",Environment,0.18829297765988084,#d6616b
+285,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",Final consumption expenditure,1.0476604595765814e-07,#d6616b
+286,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",International exports,8.850565113625315e-06,#d6616b
+287,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",Manufacturing,7.589506506474272e-06,#d6616b
+288,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",Mining,1.5149386230022947e-10,#d6616b
+289,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",Services,1.4895485902145467e-10,#d6616b
+290,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",Utilities & Construction,1.5030899410346788e-09,#d6616b
+291,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport",Waste,601.7981471494919,#d6616b
+292,"Hardware, machinery, equipment, and vehicles","Wholesale, Retail, Transport","Wholesale, Retail, Transport",1.4526602579116537e-06,#d6616b
+293,Motor vehicle plastic parts,Agriculture,Capital formation,18886.28964506463,#9c9ede
+294,Motor vehicle plastic parts,Agriculture,Environment,174.8600063101052,#9c9ede
+295,Motor vehicle plastic parts,International imports,Agriculture,957.5208460251825,#9c9ede
+296,Motor vehicle plastic parts,International imports,Final consumption expenditure,721.8338956028628,#9c9ede
+297,Motor vehicle plastic parts,International imports,International exports,2982.8730569776303,#9c9ede
+298,Motor vehicle plastic parts,International imports,Manufacturing,18954.324801617953,#9c9ede
+299,Motor vehicle plastic parts,International imports,Mining,518.9529939121727,#9c9ede
+300,Motor vehicle plastic parts,International imports,Plastic product manufacturing,1802.0329440560574,#9c9ede
+301,Motor vehicle plastic parts,International imports,Plastic resin manufacturing,13.548758893701095,#9c9ede
+302,Motor vehicle plastic parts,International imports,Services,545.1719068528182,#9c9ede
+303,Motor vehicle plastic parts,International imports,Utilities & Construction,533.7548449643627,#9c9ede
+304,Motor vehicle plastic parts,International imports,"Wholesale, Retail, Transport",1156.2343760930048,#9c9ede
+305,Motor vehicle plastic parts,Manufacturing,Agriculture,659.5377299855172,#9c9ede
+306,Motor vehicle plastic parts,Manufacturing,Capital formation,33562.61715967778,#9c9ede
+307,Motor vehicle plastic parts,Manufacturing,Final consumption expenditure,497.1972055843829,#9c9ede
+308,Motor vehicle plastic parts,Manufacturing,International exports,2054.5947725322385,#9c9ede
+309,Motor vehicle plastic parts,Manufacturing,Manufacturing,13055.68688656886,#9c9ede
+310,Motor vehicle plastic parts,Manufacturing,Mining,357.45339748459196,#9c9ede
+311,Motor vehicle plastic parts,Manufacturing,Plastic product manufacturing,1241.2353446042816,#9c9ede
+312,Motor vehicle plastic parts,Manufacturing,Plastic resin manufacturing,9.332347929517242,#9c9ede
+313,Motor vehicle plastic parts,Manufacturing,Services,375.5129127372828,#9c9ede
+314,Motor vehicle plastic parts,Manufacturing,Utilities & Construction,367.6488718526649,#9c9ede
+315,Motor vehicle plastic parts,Manufacturing,Waste,34337.856734995694,#9c9ede
+316,Motor vehicle plastic parts,Manufacturing,"Wholesale, Retail, Transport",796.4110639524872,#9c9ede
+317,Motor vehicle plastic parts,Mining,Capital formation,10330.67919100816,#9c9ede
+318,Motor vehicle plastic parts,Plastic product manufacturing,Agriculture,16992.767176562586,#9c9ede
+319,Motor vehicle plastic parts,Plastic product manufacturing,Capital formation,35872.65986526264,#9c9ede
+320,Motor vehicle plastic parts,Plastic product manufacturing,Final consumption expenditure,12810.11831653432,#9c9ede
+321,Motor vehicle plastic parts,Plastic product manufacturing,International exports,52935.941379107375,#9c9ede
+322,Motor vehicle plastic parts,Plastic product manufacturing,Manufacturing,336375.369455266,#9c9ede
+323,Motor vehicle plastic parts,Plastic product manufacturing,Mining,9209.66623101355,#9c9ede
+324,Motor vehicle plastic parts,Plastic product manufacturing,Plastic product manufacturing,31980.010033154802,#9c9ede
+325,Motor vehicle plastic parts,Plastic product manufacturing,Plastic resin manufacturing,240.4447969647539,#9c9ede
+326,Motor vehicle plastic parts,Plastic product manufacturing,Services,9674.96355072458,#9c9ede
+327,Motor vehicle plastic parts,Plastic product manufacturing,Utilities & Construction,9472.349189568597,#9c9ede
+328,Motor vehicle plastic parts,Plastic product manufacturing,"Wholesale, Retail, Transport",20519.262464150892,#9c9ede
+329,Motor vehicle plastic parts,Plastic resin manufacturing,Agriculture,76.2124052293642,#9c9ede
+330,Motor vehicle plastic parts,Plastic resin manufacturing,Capital formation,269.7120610327045,#9c9ede
+331,Motor vehicle plastic parts,Plastic resin manufacturing,Final consumption expenditure,57.45326338151504,#9c9ede
+332,Motor vehicle plastic parts,Plastic resin manufacturing,International exports,237.41721249184442,#9c9ede
+333,Motor vehicle plastic parts,Plastic resin manufacturing,Manufacturing,1508.6404527133438,#9c9ede
+334,Motor vehicle plastic parts,Plastic resin manufacturing,Mining,41.305268737706506,#9c9ede
+335,Motor vehicle plastic parts,Plastic resin manufacturing,Plastic product manufacturing,143.43005224290692,#9c9ede
+336,Motor vehicle plastic parts,Plastic resin manufacturing,Plastic resin manufacturing,1.0783927132741953,#9c9ede
+337,Motor vehicle plastic parts,Plastic resin manufacturing,Services,43.39212295712196,#9c9ede
+338,Motor vehicle plastic parts,Plastic resin manufacturing,Utilities & Construction,42.483399402137536,#9c9ede
+339,Motor vehicle plastic parts,Plastic resin manufacturing,"Wholesale, Retail, Transport",92.02870431147109,#9c9ede
+340,Motor vehicle plastic parts,Services,Capital formation,10852.6131262667,#9c9ede
+341,Motor vehicle plastic parts,Utilities & Construction,Capital formation,5970.748361741714,#9c9ede
+342,Motor vehicle plastic parts,Utilities & Construction,Environment,28.378640479871304,#9c9ede
+343,Motor vehicle plastic parts,Utilities & Construction,Waste,218.275572050495,#9c9ede
+344,Motor vehicle plastic parts,"Wholesale, Retail, Transport",Capital formation,23016.8946882573,#9c9ede
+345,Other supplies,Agriculture,Capital formation,281.4140582166084,#ce6dbd
+346,Other supplies,Agriculture,Environment,7.279378057893179,#ce6dbd
+347,Other supplies,International imports,Agriculture,160.17406952729462,#ce6dbd
+348,Other supplies,International imports,Capital formation,1832.1012231452455,#ce6dbd
+349,Other supplies,International imports,Final consumption expenditure,9176.32854149208,#ce6dbd
+350,Other supplies,International imports,International exports,9401.522587952206,#ce6dbd
+351,Other supplies,International imports,Manufacturing,7655.228885910146,#ce6dbd
+352,Other supplies,International imports,Mining,212.66525231920846,#ce6dbd
+353,Other supplies,International imports,Plastic product manufacturing,953.6102450269728,#ce6dbd
+354,Other supplies,International imports,Plastic resin manufacturing,11.75429740475635,#ce6dbd
+355,Other supplies,International imports,Private exports,3596.722720712276,#ce6dbd
+356,Other supplies,International imports,Real estate,550.7140505148698,#ce6dbd
+357,Other supplies,International imports,Services,10570.481343276051,#ce6dbd
+358,Other supplies,International imports,Utilities & Construction,1273.108309787706,#ce6dbd
+359,Other supplies,International imports,Waste management services,95.03319975147912,#ce6dbd
+360,Other supplies,International imports,"Wholesale, Retail, Transport",1711.4378164492996,#ce6dbd
+361,Other supplies,Manufacturing,Agriculture,97.73612014743873,#ce6dbd
+362,Other supplies,Manufacturing,Capital formation,18140.713280042626,#ce6dbd
+363,Other supplies,Manufacturing,Final consumption expenditure,4397.9103782990205,#ce6dbd
+364,Other supplies,Manufacturing,International exports,5148.944526559916,#ce6dbd
+365,Other supplies,Manufacturing,Manufacturing,4670.19426495922,#ce6dbd
+366,Other supplies,Manufacturing,Mining,182.54720854036668,#ce6dbd
+367,Other supplies,Manufacturing,Plastic product manufacturing,557.3701050218687,#ce6dbd
+368,Other supplies,Manufacturing,Plastic resin manufacturing,13.011746475003669,#ce6dbd
+369,Other supplies,Manufacturing,Private exports,1819.953471151932,#ce6dbd
+370,Other supplies,Manufacturing,Real estate,623.95427520249,#ce6dbd
+371,Other supplies,Manufacturing,Services,5899.602794969088,#ce6dbd
+372,Other supplies,Manufacturing,Utilities & Construction,840.4354104608398,#ce6dbd
+373,Other supplies,Manufacturing,Waste management services,54.94643250496914,#ce6dbd
+374,Other supplies,Manufacturing,"Wholesale, Retail, Transport",3667.9202696902043,#ce6dbd
+375,Other supplies,Mining,Capital formation,443.585444790171,#ce6dbd
+376,Other supplies,Plastic product manufacturing,Agriculture,2.7758825554116133,#ce6dbd
+377,Other supplies,Plastic product manufacturing,Capital formation,1745.1902230796713,#ce6dbd
+378,Other supplies,Plastic product manufacturing,Final consumption expenditure,201.45397259073331,#ce6dbd
+379,Other supplies,Plastic product manufacturing,International exports,196.5226327870489,#ce6dbd
+380,Other supplies,Plastic product manufacturing,Manufacturing,142.0096402935944,#ce6dbd
+381,Other supplies,Plastic product manufacturing,Mining,1.822818021754102,#ce6dbd
+382,Other supplies,Plastic product manufacturing,Plastic product manufacturing,24.241353702067318,#ce6dbd
+383,Other supplies,Plastic product manufacturing,Plastic resin manufacturing,0.05747079387760657,#ce6dbd
+384,Other supplies,Plastic product manufacturing,Private exports,84.2476034455103,#ce6dbd
+385,Other supplies,Plastic product manufacturing,Real estate,8.274757251418155,#ce6dbd
+386,Other supplies,Plastic product manufacturing,Services,137.71350400118882,#ce6dbd
+387,Other supplies,Plastic product manufacturing,Utilities & Construction,27.238045097113943,#ce6dbd
+388,Other supplies,Plastic product manufacturing,Waste management services,1.2942595625729865,#ce6dbd
+389,Other supplies,Plastic product manufacturing,"Wholesale, Retail, Transport",7.215911888127274,#ce6dbd
+390,Other supplies,Plastic resin manufacturing,Capital formation,28.009747140702952,#ce6dbd
+391,Other supplies,Private imports,Final consumption expenditure,7752.411880804067,#ce6dbd
+392,Other supplies,Real estate,Capital formation,1344.4204473078119,#ce6dbd
+393,Other supplies,Services,Agriculture,9.052815097279962e-12,#ce6dbd
+394,Other supplies,Services,Capital formation,18255.543774429876,#ce6dbd
+395,Other supplies,Services,Final consumption expenditure,6.569894540102359e-10,#ce6dbd
+396,Other supplies,Services,International exports,6.409071787217585e-10,#ce6dbd
+397,Other supplies,Services,Manufacturing,4.6312730814309207e-10,#ce6dbd
+398,Other supplies,Services,Mining,5.944644334739382e-12,#ce6dbd
+399,Other supplies,Services,Plastic product manufacturing,7.905683630049602e-11,#ce6dbd
+400,Other supplies,Services,Plastic resin manufacturing,1.8742596636647494e-13,#ce6dbd
+401,Other supplies,Services,Private exports,2.747515289846546e-10,#ce6dbd
+402,Other supplies,Services,Real estate,2.6985957034071037e-11,#ce6dbd
+403,Other supplies,Services,Services,4.4911658300919137e-10,#ce6dbd
+404,Other supplies,Services,Utilities & Construction,8.882976168960507e-11,#ce6dbd
+405,Other supplies,Services,Waste management services,4.220889131284705e-12,#ce6dbd
+406,Other supplies,Services,"Wholesale, Retail, Transport",2.3532809755992772e-11,#ce6dbd
+407,Other supplies,Utilities & Construction,Capital formation,2386.441385539282,#ce6dbd
+408,Other supplies,Waste management services,Capital formation,166.6218271926039,#ce6dbd
+409,Other supplies,"Wholesale, Retail, Transport",Capital formation,6262.547219449164,#ce6dbd
+410,Paper-related products,Agriculture,Capital formation,174.90232057702553,#5254a3
+411,Paper-related products,Agriculture,Environment,10.042528088976983,#5254a3
+412,Paper-related products,Agriculture,Waste,1001.9443536605958,#5254a3
+413,Paper-related products,International imports,Agriculture,299.3717308648579,#5254a3
+414,Paper-related products,International imports,Final consumption expenditure,15762.736552528413,#5254a3
+415,Paper-related products,International imports,International exports,13929.150758433578,#5254a3
+416,Paper-related products,International imports,Manufacturing,6817.893867746884,#5254a3
+417,Paper-related products,International imports,Mining,60.97946839666403,#5254a3
+418,Paper-related products,International imports,Plastic product manufacturing,312.56851172162317,#5254a3
+419,Paper-related products,International imports,Plastic resin manufacturing,31.21637337865442,#5254a3
+420,Paper-related products,International imports,Private exports,146.89643738159245,#5254a3
+421,Paper-related products,International imports,Real estate,141.38218673303456,#5254a3
+422,Paper-related products,International imports,Services,4180.690369030335,#5254a3
+423,Paper-related products,International imports,Utilities & Construction,907.2123356390186,#5254a3
+424,Paper-related products,International imports,Waste management services,35.28214078462762,#5254a3
+425,Paper-related products,International imports,"Wholesale, Retail, Transport",1770.7974957584026,#5254a3
+426,Paper-related products,Manufacturing,Agriculture,880.8906472872433,#5254a3
+427,Paper-related products,Manufacturing,Capital formation,4902.50304702521,#5254a3
+428,Paper-related products,Manufacturing,Final consumption expenditure,21237.78850562374,#5254a3
+429,Paper-related products,Manufacturing,International exports,20642.70882748371,#5254a3
+430,Paper-related products,Manufacturing,Manufacturing,18971.203267217017,#5254a3
+431,Paper-related products,Manufacturing,Mining,202.32748032954322,#5254a3
+432,Paper-related products,Manufacturing,Plastic product manufacturing,901.6945388869244,#5254a3
+433,Paper-related products,Manufacturing,Plastic resin manufacturing,100.85559992808325,#5254a3
+434,Paper-related products,Manufacturing,Private exports,226.4176286334592,#5254a3
+435,Paper-related products,Manufacturing,Real estate,505.6275169099965,#5254a3
+436,Paper-related products,Manufacturing,Services,13253.791168408405,#5254a3
+437,Paper-related products,Manufacturing,Utilities & Construction,1950.144004983055,#5254a3
+438,Paper-related products,Manufacturing,Waste,20245.032993227658,#5254a3
+439,Paper-related products,Manufacturing,Waste management services,112.12585276260826,#5254a3
+440,Paper-related products,Manufacturing,"Wholesale, Retail, Transport",5994.461669422492,#5254a3
+441,Paper-related products,Mining,Capital formation,229.6144843808727,#5254a3
+442,Paper-related products,Mining,Waste,34.29471533551955,#5254a3
+443,Paper-related products,Plastic product manufacturing,Agriculture,1.9838656593462383,#5254a3
+444,Paper-related products,Plastic product manufacturing,Capital formation,193.21987719873172,#5254a3
+445,Paper-related products,Plastic product manufacturing,Final consumption expenditure,23.975852003435808,#5254a3
+446,Paper-related products,Plastic product manufacturing,International exports,82.59097841602608,#5254a3
+447,Paper-related products,Plastic product manufacturing,Manufacturing,58.65955294185848,#5254a3
+448,Paper-related products,Plastic product manufacturing,Mining,0.8746096027765061,#5254a3
+449,Paper-related products,Plastic product manufacturing,Plastic product manufacturing,2.295404183026728,#5254a3
+450,Paper-related products,Plastic product manufacturing,Plastic resin manufacturing,0.11207144826705792,#5254a3
+451,Paper-related products,Plastic product manufacturing,Private exports,1.3293281964627577,#5254a3
+452,Paper-related products,Plastic product manufacturing,Real estate,1.7657032571366873,#5254a3
+453,Paper-related products,Plastic product manufacturing,Services,55.938679305455544,#5254a3
+454,Paper-related products,Plastic product manufacturing,Utilities & Construction,18.01133916790623,#5254a3
+455,Paper-related products,Plastic product manufacturing,Waste,1028.122894278484,#5254a3
+456,Paper-related products,Plastic product manufacturing,Waste management services,0.42773098484346633,#5254a3
+457,Paper-related products,Plastic product manufacturing,"Wholesale, Retail, Transport",14.953849136663505,#5254a3
+458,Paper-related products,Plastic resin manufacturing,Capital formation,23.61831833171945,#5254a3
+459,Paper-related products,Plastic resin manufacturing,Waste,109.04106580827764,#5254a3
+460,Paper-related products,Private imports,Final consumption expenditure,475.5925736710928,#5254a3
+461,Paper-related products,Real estate,Capital formation,581.4555649506332,#5254a3
+462,Paper-related products,Real estate,Waste,66.35102070114462,#5254a3
+463,Paper-related products,Services,Agriculture,5.2745845146449925e-06,#5254a3
+464,Paper-related products,Services,Capital formation,12976.983046498573,#5254a3
+465,Paper-related products,Services,Final consumption expenditure,5.3255264497794426e-05,#5254a3
+466,Paper-related products,Services,International exports,9.837783577615287e-05,#5254a3
+467,Paper-related products,Services,Manufacturing,0.00016979158050630234,#5254a3
+468,Paper-related products,Services,Mining,1.2079624110267855e-05,#5254a3
+469,Paper-related products,Services,Plastic product manufacturing,4.536932723478899e-06,#5254a3
+470,Paper-related products,Services,Plastic resin manufacturing,1.1216645982471728e-06,#5254a3
+471,Paper-related products,Services,Private exports,8.237260782962039e-06,#5254a3
+472,Paper-related products,Services,Real estate,3.0799244559404636e-05,#5254a3
+473,Paper-related products,Services,Services,0.0006370470867657054,#5254a3
+474,Paper-related products,Services,Utilities & Construction,2.4821016384635712e-05,#5254a3
+475,Paper-related products,Services,Waste,4511.16447495594,#5254a3
+476,Paper-related products,Services,Waste management services,4.994150265320582e-06,#5254a3
+477,Paper-related products,Services,"Wholesale, Retail, Transport",0.00022077734107590625,#5254a3
+478,Paper-related products,Utilities & Construction,Capital formation,599.9007709864012,#5254a3
+479,Paper-related products,Utilities & Construction,Environment,4.682743813410764,#5254a3
+480,Paper-related products,Utilities & Construction,Waste,1575.438734996214,#5254a3
+481,Paper-related products,Waste management services,Capital formation,97.32353733604018,#5254a3
+482,Paper-related products,Waste management services,Waste,50.58392968918582,#5254a3
+483,Paper-related products,"Wholesale, Retail, Transport",Agriculture,1.7675726579388913e-07,#5254a3
+484,Paper-related products,"Wholesale, Retail, Transport",Capital formation,4392.786481350463,#5254a3
+485,Paper-related products,"Wholesale, Retail, Transport",Final consumption expenditure,1.554735372212035e-06,#5254a3
+486,Paper-related products,"Wholesale, Retail, Transport",International exports,3.6874235121006324e-06,#5254a3
+487,Paper-related products,"Wholesale, Retail, Transport",Manufacturing,5.340408968090974e-06,#5254a3
+488,Paper-related products,"Wholesale, Retail, Transport",Mining,4.116063630915421e-07,#5254a3
+489,Paper-related products,"Wholesale, Retail, Transport",Plastic product manufacturing,1.6018793510598183e-07,#5254a3
+490,Paper-related products,"Wholesale, Retail, Transport",Plastic resin manufacturing,4.0211467643178324e-08,#5254a3
+491,Paper-related products,"Wholesale, Retail, Transport",Private exports,1.3205635614242525e-07,#5254a3
+492,Paper-related products,"Wholesale, Retail, Transport",Real estate,1.1135509396822838e-06,#5254a3
+493,Paper-related products,"Wholesale, Retail, Transport",Services,2.2762148268517615e-05,#5254a3
+494,Paper-related products,"Wholesale, Retail, Transport",Utilities & Construction,8.524521523663579e-07,#5254a3
+495,Paper-related products,"Wholesale, Retail, Transport",Waste,3393.6828217238262,#5254a3
+496,Paper-related products,"Wholesale, Retail, Transport",Waste management services,1.6665602127524667e-07,#5254a3
+497,Paper-related products,"Wholesale, Retail, Transport","Wholesale, Retail, Transport",8.295855084648885e-06,#5254a3
+498,Plastic and foam building and construction materials,Agriculture,Capital formation,156364.57509122122,#8c6d31
+499,Plastic and foam building and construction materials,Agriculture,Environment,1023.9876353068346,#8c6d31
+500,Plastic and foam building and construction materials,International imports,Agriculture,32257.599702163614,#8c6d31
+501,Plastic and foam building and construction materials,International imports,Final consumption expenditure,7495.599434790306,#8c6d31
+502,Plastic and foam building and construction materials,International imports,International exports,34054.69681813434,#8c6d31
+503,Plastic and foam building and construction materials,International imports,Manufacturing,74481.81981126843,#8c6d31
+504,Plastic and foam building and construction materials,International imports,Mining,15257.5147120531,#8c6d31
+505,Plastic and foam building and construction materials,International imports,Plastic product manufacturing,27497.496303709446,#8c6d31
+506,Plastic and foam building and construction materials,International imports,Plastic resin manufacturing,603.2280197980425,#8c6d31
+507,Plastic and foam building and construction materials,International imports,Services,11707.946915885603,#8c6d31
+508,Plastic and foam building and construction materials,International imports,Utilities & Construction,253420.79256440475,#8c6d31
+509,Plastic and foam building and construction materials,International imports,"Wholesale, Retail, Transport",22613.414000072855,#8c6d31
+510,Plastic and foam building and construction materials,Manufacturing,Agriculture,1472.3362304396323,#8c6d31
+511,Plastic and foam building and construction materials,Manufacturing,Capital formation,211513.45595946957,#8c6d31
+512,Plastic and foam building and construction materials,Manufacturing,Final consumption expenditure,342.1222508370448,#8c6d31
+513,Plastic and foam building and construction materials,Manufacturing,International exports,1554.3612793549987,#8c6d31
+514,Plastic and foam building and construction materials,Manufacturing,Manufacturing,3399.579721669481,#8c6d31
+515,Plastic and foam building and construction materials,Manufacturing,Mining,696.3999771971486,#8c6d31
+516,Plastic and foam building and construction materials,Manufacturing,Plastic product manufacturing,1255.0704462866718,#8c6d31
+517,Plastic and foam building and construction materials,Manufacturing,Plastic resin manufacturing,27.533185263795144,#8c6d31
+518,Plastic and foam building and construction materials,Manufacturing,Services,534.3867673813972,#8c6d31
+519,Plastic and foam building and construction materials,Manufacturing,Utilities & Construction,11566.905717857037,#8c6d31
+520,Plastic and foam building and construction materials,Manufacturing,Waste,11141.659511800102,#8c6d31
+521,Plastic and foam building and construction materials,Manufacturing,"Wholesale, Retail, Transport",1032.1458829438236,#8c6d31
+522,Plastic and foam building and construction materials,Mining,Capital formation,74443.18031970081,#8c6d31
+523,Plastic and foam building and construction materials,Plastic product manufacturing,Agriculture,124774.87004077453,#8c6d31
+524,Plastic and foam building and construction materials,Plastic product manufacturing,Final consumption expenditure,28993.55358083052,#8c6d31
+525,Plastic and foam building and construction materials,Plastic product manufacturing,International exports,131726.179535785,#8c6d31
+526,Plastic and foam building and construction materials,Plastic product manufacturing,Manufacturing,288101.3923279623,#8c6d31
+527,Plastic and foam building and construction materials,Plastic product manufacturing,Mining,59017.23726870912,#8c6d31
+528,Plastic and foam building and construction materials,Plastic product manufacturing,Plastic product manufacturing,106362.4249609588,#8c6d31
+529,Plastic and foam building and construction materials,Plastic product manufacturing,Plastic resin manufacturing,2333.3322525608155,#8c6d31
+530,Plastic and foam building and construction materials,Plastic product manufacturing,Services,45287.23675543437,#8c6d31
+531,Plastic and foam building and construction materials,Plastic product manufacturing,Utilities & Construction,980251.0648593855,#8c6d31
+532,Plastic and foam building and construction materials,Plastic product manufacturing,Waste,14610.279029024858,#8c6d31
+533,Plastic and foam building and construction materials,Plastic product manufacturing,"Wholesale, Retail, Transport",87470.41996581259,#8c6d31
+534,Plastic and foam building and construction materials,Plastic resin manufacturing,Capital formation,2943.2193315367936,#8c6d31
+535,Plastic and foam building and construction materials,Services,Capital formation,57124.428183852935,#8c6d31
+536,Plastic and foam building and construction materials,Utilities & Construction,Capital formation,299357.32629292883,#8c6d31
+537,Plastic and foam building and construction materials,Utilities & Construction,Environment,5104.224176810764,#8c6d31
+538,Plastic and foam building and construction materials,Utilities & Construction,Waste,400531.5260867725,#8c6d31
+539,Plastic and foam building and construction materials,"Wholesale, Retail, Transport",Capital formation,110333.46438274183,#8c6d31
+540,Plastic bags,Agriculture,Waste,229.07254184418787,#637939
+541,Plastic bags,International imports,Agriculture,73.4269620145596,#637939
+542,Plastic bags,International imports,Final consumption expenditure,49180.11907601237,#637939
+543,Plastic bags,International imports,International exports,57773.7960296719,#637939
+544,Plastic bags,International imports,Manufacturing,59814.03884073323,#637939
+545,Plastic bags,International imports,Mining,16.023256541312797,#637939
+546,Plastic bags,International imports,Plastic product manufacturing,1924.1908753349323,#637939
+547,Plastic bags,International imports,Plastic resin manufacturing,250.69396035267548,#637939
+548,Plastic bags,International imports,Real estate,1.7112215723732116,#637939
+549,Plastic bags,International imports,Services,17563.667087643666,#637939
+550,Plastic bags,International imports,Utilities & Construction,16.878867327499407,#637939
+551,Plastic bags,International imports,Waste management services,11.122940220425876,#637939
+552,Plastic bags,International imports,"Wholesale, Retail, Transport",1930.8801960269361,#637939
+553,Plastic bags,Manufacturing,Waste,186603.8514911846,#637939
+554,Plastic bags,Mining,Waste,49.98828773294777,#637939
+555,Plastic bags,Plastic product manufacturing,Agriculture,151.48084272400544,#637939
+556,Plastic bags,Plastic product manufacturing,Final consumption expenditure,101459.26889122938,#637939
+557,Plastic bags,Plastic product manufacturing,International exports,119188.1438347424,#637939
+558,Plastic bags,Plastic product manufacturing,Manufacturing,123397.1930981435,#637939
+559,Plastic bags,Plastic product manufacturing,Mining,33.05620084867068,#637939
+560,Plastic bags,Plastic product manufacturing,Plastic product manufacturing,3969.63250773988,#637939
+561,Plastic bags,Plastic product manufacturing,Plastic resin manufacturing,517.1851229867261,#637939
+562,Plastic bags,Plastic product manufacturing,Real estate,3.5302738770424997,#637939
+563,Plastic bags,Plastic product manufacturing,Services,36234.089205986566,#637939
+564,Plastic bags,Plastic product manufacturing,Utilities & Construction,34.82133778719193,#637939
+565,Plastic bags,Plastic product manufacturing,Waste,6002.962436590592,#637939
+566,Plastic bags,Plastic product manufacturing,Waste management services,22.946780200776253,#637939
+567,Plastic bags,Plastic product manufacturing,"Wholesale, Retail, Transport",3983.432669259227,#637939
+568,Plastic bags,Plastic resin manufacturing,Waste,782.0983075887897,#637939
+569,Plastic bags,Real estate,Waste,5.338555000606073,#637939
+570,Plastic bags,Services,Waste,54793.95787985699,#637939
+571,Plastic bags,Utilities & Construction,Waste,52.65756523325082,#637939
+572,Plastic bags,Waste management services,Waste,34.70060750393948,#637939
+573,Plastic bags,"Wholesale, Retail, Transport",Waste,6023.831333411144,#637939
+574,Plastic bottles,Agriculture,Waste,50.255402450669735,#e7ba52
+575,Plastic bottles,International imports,Agriculture,21.214440393587108,#e7ba52
+576,Plastic bottles,International imports,Final consumption expenditure,9658.645423376664,#e7ba52
+577,Plastic bottles,International imports,International exports,35921.06190861783,#e7ba52
+578,Plastic bottles,International imports,Manufacturing,92183.97570572472,#e7ba52
+579,Plastic bottles,International imports,Mining,66.34334086721786,#e7ba52
+580,Plastic bottles,International imports,Plastic product manufacturing,2271.970136878663,#e7ba52
+581,Plastic bottles,International imports,Plastic resin manufacturing,583.0113937255803,#e7ba52
+582,Plastic bottles,International imports,Real estate,82.54345898595712,#e7ba52
+583,Plastic bottles,International imports,Services,1930.7069343654593,#e7ba52
+584,Plastic bottles,International imports,Utilities & Construction,107.22935326213123,#e7ba52
+585,Plastic bottles,International imports,Waste management services,26.8073383155328,#e7ba52
+586,Plastic bottles,International imports,"Wholesale, Retail, Transport",16748.51140291347,#e7ba52
+587,Plastic bottles,Manufacturing,Agriculture,0.045207996297016315,#e7ba52
+588,Plastic bottles,Manufacturing,Final consumption expenditure,20.582584241354756,#e7ba52
+589,Plastic bottles,Manufacturing,International exports,76.54782325724611,#e7ba52
+590,Plastic bottles,Manufacturing,Manufacturing,196.44415572745527,#e7ba52
+591,Plastic bottles,Manufacturing,Mining,0.14137773387430558,#e7ba52
+592,Plastic bottles,Manufacturing,Plastic product manufacturing,4.841570912518189,#e7ba52
+593,Plastic bottles,Manufacturing,Plastic resin manufacturing,1.2423979345989122,#e7ba52
+594,Plastic bottles,Manufacturing,Real estate,0.17590020377384533,#e7ba52
+595,Plastic bottles,Manufacturing,Services,4.114338644813005,#e7ba52
+596,Plastic bottles,Manufacturing,Utilities & Construction,0.2285058721921916,#e7ba52
+597,Plastic bottles,Manufacturing,Waste,218376.85617172264,#e7ba52
+598,Plastic bottles,Manufacturing,Waste management services,0.0571264680480479,#e7ba52
+599,Plastic bottles,Manufacturing,"Wholesale, Retail, Transport",35.69109660381763,#e7ba52
+600,Plastic bottles,Mining,Waste,157.16234948209444,#e7ba52
+601,Plastic bottles,Plastic product manufacturing,Agriculture,29.01454912949173,#e7ba52
+602,Plastic bottles,Plastic product manufacturing,Final consumption expenditure,13209.928565714912,#e7ba52
+603,Plastic bottles,Plastic product manufacturing,International exports,49128.4896605692,#e7ba52
+604,Plastic bottles,Plastic product manufacturing,Manufacturing,126078.10729120845,#e7ba52
+605,Plastic bottles,Plastic product manufacturing,Mining,90.73640818677416,#e7ba52
+606,Plastic bottles,Plastic product manufacturing,Plastic product manufacturing,3107.3263274543397,#e7ba52
+607,Plastic bottles,Plastic product manufacturing,Plastic resin manufacturing,797.3725638041228,#e7ba52
+608,Plastic bottles,Plastic product manufacturing,Real estate,112.89297297656783,#e7ba52
+609,Plastic bottles,Plastic product manufacturing,Services,2640.587739412198,#e7ba52
+610,Plastic bottles,Plastic product manufacturing,Utilities & Construction,146.65535741815822,#e7ba52
+611,Plastic bottles,Plastic product manufacturing,Waste,5382.125168819224,#e7ba52
+612,Plastic bottles,Plastic product manufacturing,Waste management services,36.663839354539554,#e7ba52
+613,Plastic bottles,Plastic product manufacturing,"Wholesale, Retail, Transport",22906.59088479105,#e7ba52
+614,Plastic bottles,Plastic resin manufacturing,Waste,1381.1098328034054,#e7ba52
+615,Plastic bottles,Real estate,Waste,195.53920226260584,#e7ba52
+616,Plastic bottles,Services,Waste,4573.698490305951,#e7ba52
+617,Plastic bottles,Utilities & Construction,Waste,254.01821602338515,#e7ba52
+618,Plastic bottles,Waste management services,Waste,63.50455400584629,#e7ba52
+619,Plastic bottles,"Wholesale, Retail, Transport",Waste,39675.95493386124,#e7ba52
+620,Plastic films and non-rigid sheets,Agriculture,Waste,8997.446530284235,#8ca252
+621,Plastic films and non-rigid sheets,International imports,Agriculture,3866.6136777003007,#8ca252
+622,Plastic films and non-rigid sheets,International imports,Final consumption expenditure,2828.373406860564,#8ca252
+623,Plastic films and non-rigid sheets,International imports,International exports,176972.41986871263,#8ca252
+624,Plastic films and non-rigid sheets,International imports,Manufacturing,89280.78752316529,#8ca252
+625,Plastic films and non-rigid sheets,International imports,Plastic product manufacturing,77310.88257633374,#8ca252
+626,Plastic films and non-rigid sheets,International imports,Plastic resin manufacturing,5.250512701380949,#8ca252
+627,Plastic films and non-rigid sheets,International imports,Services,7119.306296205799,#8ca252
+628,Plastic films and non-rigid sheets,International imports,Utilities & Construction,62435.01331272118,#8ca252
+629,Plastic films and non-rigid sheets,International imports,"Wholesale, Retail, Transport",90419.17646219808,#8ca252
+630,Plastic films and non-rigid sheets,Manufacturing,Agriculture,75.58066558688934,#8ca252
+631,Plastic films and non-rigid sheets,Manufacturing,Final consumption expenditure,55.28619159748093,#8ca252
+632,Plastic films and non-rigid sheets,Manufacturing,International exports,3459.2784278762083,#8ca252
+633,Plastic films and non-rigid sheets,Manufacturing,Manufacturing,1745.170815496584,#8ca252
+634,Plastic films and non-rigid sheets,Manufacturing,Plastic product manufacturing,1511.1951824740981,#8ca252
+635,Plastic films and non-rigid sheets,Manufacturing,Plastic resin manufacturing,0.10263172835999759,#8ca252
+636,Plastic films and non-rigid sheets,Manufacturing,Services,139.16102130590787,#8ca252
+637,Plastic films and non-rigid sheets,Manufacturing,Utilities & Construction,1220.416688979478,#8ca252
+638,Plastic films and non-rigid sheets,Manufacturing,Waste,188928.477253897,#8ca252
+639,Plastic films and non-rigid sheets,Manufacturing,"Wholesale, Retail, Transport",1767.4228946750802,#8ca252
+640,Plastic films and non-rigid sheets,Plastic product manufacturing,Agriculture,4926.414443950044,#8ca252
+641,Plastic films and non-rigid sheets,Plastic product manufacturing,Final consumption expenditure,3603.602729903257,#8ca252
+642,Plastic films and non-rigid sheets,Plastic product manufacturing,International exports,225478.81895988923,#8ca252
+643,Plastic films and non-rigid sheets,Plastic product manufacturing,Manufacturing,113751.77296816249,#8ca252
+644,Plastic films and non-rigid sheets,Plastic product manufacturing,Plastic product manufacturing,98501.03484481,#8ca252
+645,Plastic films and non-rigid sheets,Plastic product manufacturing,Plastic resin manufacturing,6.689626574126847,#8ca252
+646,Plastic films and non-rigid sheets,Plastic product manufacturing,Services,9070.638106621627,#8ca252
+647,Plastic films and non-rigid sheets,Plastic product manufacturing,Utilities & Construction,79547.8361766255,#8ca252
+648,Plastic films and non-rigid sheets,Plastic product manufacturing,Waste,179899.15470514755,#8ca252
+649,Plastic films and non-rigid sheets,Plastic product manufacturing,"Wholesale, Retail, Transport",115202.18311501206,#8ca252
+650,Plastic films and non-rigid sheets,Plastic resin manufacturing,Waste,12.21772104094724,#8ca252
+651,Plastic films and non-rigid sheets,Services,Waste,16566.324715151048,#8ca252
+652,Plastic films and non-rigid sheets,Utilities & Construction,Environment,785.9343189910668,#8ca252
+653,Plastic films and non-rigid sheets,Utilities & Construction,Waste,36326.746592131036,#8ca252
+654,Plastic films and non-rigid sheets,"Wholesale, Retail, Transport",Waste,210401.60030024574,#8ca252
+655,"Plastic products, n.e.c.",Agriculture,Capital formation,16015.783433231489,#e7cb94
+656,"Plastic products, n.e.c.",Agriculture,Environment,187.49899282745014,#e7cb94
+657,"Plastic products, n.e.c.",International imports,Agriculture,8803.60146068848,#e7cb94
+658,"Plastic products, n.e.c.",International imports,Final consumption expenditure,66763.0682940474,#e7cb94
+659,"Plastic products, n.e.c.",International imports,International exports,280574.9686854857,#e7cb94
+660,"Plastic products, n.e.c.",International imports,Manufacturing,210263.66688788365,#e7cb94
+661,"Plastic products, n.e.c.",International imports,Mining,3810.3453751634665,#e7cb94
+662,"Plastic products, n.e.c.",International imports,Plastic product manufacturing,30925.294934192047,#e7cb94
+663,"Plastic products, n.e.c.",International imports,Plastic resin manufacturing,388.1815321131637,#e7cb94
+664,"Plastic products, n.e.c.",International imports,Real estate,4983.8652670431475,#e7cb94
+665,"Plastic products, n.e.c.",International imports,Services,128344.14998246083,#e7cb94
+666,"Plastic products, n.e.c.",International imports,Utilities & Construction,72723.74489238109,#e7cb94
+667,"Plastic products, n.e.c.",International imports,Waste management services,822.1536923989571,#e7cb94
+668,"Plastic products, n.e.c.",International imports,"Wholesale, Retail, Transport",23033.18459836274,#e7cb94
+669,"Plastic products, n.e.c.",Manufacturing,Agriculture,100.55994963201343,#e7cb94
+670,"Plastic products, n.e.c.",Manufacturing,Capital formation,220537.42053476136,#e7cb94
+671,"Plastic products, n.e.c.",Manufacturing,Final consumption expenditure,762.6073050793287,#e7cb94
+672,"Plastic products, n.e.c.",Manufacturing,International exports,3204.893456956841,#e7cb94
+673,"Plastic products, n.e.c.",Manufacturing,Manufacturing,2401.7561274331533,#e7cb94
+674,"Plastic products, n.e.c.",Manufacturing,Mining,43.52402147212242,#e7cb94
+675,"Plastic products, n.e.c.",Manufacturing,Plastic product manufacturing,353.24703359462507,#e7cb94
+676,"Plastic products, n.e.c.",Manufacturing,Plastic resin manufacturing,4.434039352154501,#e7cb94
+677,"Plastic products, n.e.c.",Manufacturing,Real estate,56.92866066967623,#e7cb94
+678,"Plastic products, n.e.c.",Manufacturing,Services,1466.0228902263962,#e7cb94
+679,"Plastic products, n.e.c.",Manufacturing,Utilities & Construction,830.6936832709966,#e7cb94
+680,"Plastic products, n.e.c.",Manufacturing,Waste,8907.79092756212,#e7cb94
+681,"Plastic products, n.e.c.",Manufacturing,Waste management services,9.3911263778344,#e7cb94
+682,"Plastic products, n.e.c.",Manufacturing,"Wholesale, Retail, Transport",263.0986754022243,#e7cb94
+683,"Plastic products, n.e.c.",Mining,Capital formation,7013.050571438842,#e7cb94
+684,"Plastic products, n.e.c.",Plastic product manufacturing,Agriculture,7244.849308495642,#e7cb94
+685,"Plastic products, n.e.c.",Plastic product manufacturing,Capital formation,56918.89735870619,#e7cb94
+686,"Plastic products, n.e.c.",Plastic product manufacturing,Final consumption expenditure,54942.1019707712,#e7cb94
+687,"Plastic products, n.e.c.",Plastic product manufacturing,International exports,230896.7956965262,#e7cb94
+688,"Plastic products, n.e.c.",Plastic product manufacturing,Manufacturing,173034.70499621078,#e7cb94
+689,"Plastic products, n.e.c.",Plastic product manufacturing,Mining,3135.6914757728887,#e7cb94
+690,"Plastic products, n.e.c.",Plastic product manufacturing,Plastic product manufacturing,25449.70971476524,#e7cb94
+691,"Plastic products, n.e.c.",Plastic product manufacturing,Plastic resin manufacturing,319.4507062886622,#e7cb94
+692,"Plastic products, n.e.c.",Plastic product manufacturing,Real estate,4101.429738136879,#e7cb94
+693,"Plastic products, n.e.c.",Plastic product manufacturing,Services,105619.73192470883,#e7cb94
+694,"Plastic products, n.e.c.",Plastic product manufacturing,Utilities & Construction,59847.39032627415,#e7cb94
+695,"Plastic products, n.e.c.",Plastic product manufacturing,Waste management services,676.5844224606584,#e7cb94
+696,"Plastic products, n.e.c.",Plastic product manufacturing,"Wholesale, Retail, Transport",18954.964312622425,#e7cb94
+697,"Plastic products, n.e.c.",Plastic resin manufacturing,Capital formation,714.4593068525808,#e7cb94
+698,"Plastic products, n.e.c.",Real estate,Capital formation,9172.947782328434,#e7cb94
+699,"Plastic products, n.e.c.",Services,Capital formation,236221.11009732677,#e7cb94
+700,"Plastic products, n.e.c.",Utilities & Construction,Capital formation,23025.443420329717,#e7cb94
+701,"Plastic products, n.e.c.",Utilities & Construction,Environment,602.7679491835653,#e7cb94
+702,"Plastic products, n.e.c.",Utilities & Construction,Waste,11088.335142771288,#e7cb94
+703,"Plastic products, n.e.c.",Waste management services,Capital formation,1513.197585675997,#e7cb94
+704,"Plastic products, n.e.c.","Wholesale, Retail, Transport",Capital formation,42393.24063968195,#e7cb94
+705,Plastic profile shapes,International imports,International exports,129.61069477032933,#cedb9c
+706,Plastic profile shapes,International imports,Manufacturing,88.95598456653627,#cedb9c
+707,Plastic profile shapes,International imports,Plastic product manufacturing,31.2935921676351,#cedb9c
+708,Plastic profile shapes,International imports,Utilities & Construction,94.9475238246975,#cedb9c
+709,Plastic profile shapes,Manufacturing,Capital formation,13.033409174581903,#cedb9c
+710,Plastic profile shapes,Manufacturing,International exports,145.14192312451317,#cedb9c
+711,Plastic profile shapes,Manufacturing,Manufacturing,99.61556564680377,#cedb9c
+712,Plastic profile shapes,Manufacturing,Plastic product manufacturing,35.043498198456724,#cedb9c
+713,Plastic profile shapes,Manufacturing,Utilities & Construction,106.32507007424714,#cedb9c
+714,Plastic profile shapes,Manufacturing,Waste,9.34046711072787,#cedb9c
+715,Plastic profile shapes,Plastic product manufacturing,Capital formation,67.58163063853502,#cedb9c
+716,Plastic profile shapes,Utilities & Construction,Capital formation,13.876290646009219,#cedb9c
+717,Plastic profile shapes,Utilities & Construction,Environment,1.247834143862167,#cedb9c
+718,Plastic profile shapes,Utilities & Construction,Waste,8.70802802447661,#cedb9c
+719,Plastic resins,Agriculture,Capital formation,153.0338831797394,#d3d3d3
+720,Plastic resins,Agriculture,Environment,26.372779399087566,#d3d3d3
+721,Plastic resins,Destruction,Manufacturing,0.0006010719172166714,#d3d3d3
+722,Plastic resins,Destruction,Services,0.000347691683122876,#d3d3d3
+723,Plastic resins,Destruction,"Wholesale, Retail, Transport",5.12595158080103e-05,#d3d3d3
+724,Plastic resins,International imports,Agriculture,87.8104091291613,#d3d3d3
+725,Plastic resins,International imports,International exports,2393034.3582762266,#d3d3d3
+726,Plastic resins,International imports,Manufacturing,740471.4069519368,#d3d3d3
+727,Plastic resins,International imports,Plastic product manufacturing,2242318.2446261556,#d3d3d3
+728,Plastic resins,International imports,Plastic resin manufacturing,95192.91649301666,#d3d3d3
+729,Plastic resins,International imports,Utilities & Construction,4559.708277710589,#d3d3d3
+730,Plastic resins,International imports,"Wholesale, Retail, Transport",926.9948685356882,#d3d3d3
+731,Plastic resins,Manufacturing,Agriculture,9.576502930703201,#d3d3d3
+732,Plastic resins,Manufacturing,Capital formation,142473.86244355197,#d3d3d3
+733,Plastic resins,Manufacturing,International exports,260981.59401121817,#d3d3d3
+734,Plastic resins,Manufacturing,Manufacturing,80754.96594426215,#d3d3d3
+735,Plastic resins,Manufacturing,Plastic product manufacturing,244544.66679053882,#d3d3d3
+736,Plastic resins,Manufacturing,Plastic resin manufacturing,10381.630752188552,#d3d3d3
+737,Plastic resins,Manufacturing,Utilities & Construction,497.276577090288,#d3d3d3
+738,Plastic resins,Manufacturing,Waste,481015.7938198456,#d3d3d3
+739,Plastic resins,Manufacturing,"Wholesale, Retail, Transport",101.09700163474956,#d3d3d3
+740,Plastic resins,Plastic product manufacturing,Agriculture,0.5041488515406413,#d3d3d3
+741,Plastic resins,Plastic product manufacturing,Destruction,3.4345281320205997e-06,#d3d3d3
+742,Plastic resins,Plastic product manufacturing,International exports,13739.208544714566,#d3d3d3
+743,Plastic resins,Plastic product manufacturing,Manufacturing,4251.293361637789,#d3d3d3
+744,Plastic resins,Plastic product manufacturing,Plastic product manufacturing,12873.897058765479,#d3d3d3
+745,Plastic resins,Plastic product manufacturing,Plastic resin manufacturing,546.534289051853,#d3d3d3
+746,Plastic resins,Plastic product manufacturing,Utilities & Construction,26.1788062983155,#d3d3d3
+747,Plastic resins,Plastic product manufacturing,Waste,128276.72057939504,#d3d3d3
+748,Plastic resins,Plastic product manufacturing,"Wholesale, Retail, Transport",5.322186777070066,#d3d3d3
+749,Plastic resins,Plastic resin manufacturing,Agriculture,79.14944238156352,#d3d3d3
+750,Plastic resins,Plastic resin manufacturing,Destruction,1.2868686597549002e-06,#d3d3d3
+751,Plastic resins,Plastic resin manufacturing,International exports,2157003.217908764,#d3d3d3
+752,Plastic resins,Plastic resin manufacturing,Manufacturing,667436.8055105017,#d3d3d3
+753,Plastic resins,Plastic resin manufacturing,Plastic product manufacturing,2021152.6226134743,#d3d3d3
+754,Plastic resins,Plastic resin manufacturing,Plastic resin manufacturing,85803.79403556223,#d3d3d3
+755,Plastic resins,Plastic resin manufacturing,Utilities & Construction,4109.972509893936,#d3d3d3
+756,Plastic resins,Plastic resin manufacturing,Waste,30673.01796475091,#d3d3d3
+757,Plastic resins,Plastic resin manufacturing,"Wholesale, Retail, Transport",835.5629778156267,#d3d3d3
+758,Plastic resins,Sum of all domestic Plastic resin production,Manufacturing,463070.77493232244,#d3d3d3
+759,Plastic resins,Sum of all domestic Plastic resin production,Plastic product manufacturing,31888.277316371903,#d3d3d3
+760,Plastic resins,Sum of all domestic Plastic resin production,Plastic resin manufacturing,4849543.868751305,#d3d3d3
+761,Plastic resins,Utilities & Construction,Destruction,1.256462471385e-07,#d3d3d3
+762,Plastic resins,Utilities & Construction,Environment,58.560174734063274,#d3d3d3
+763,Plastic resins,Utilities & Construction,Waste,462.11188446327185,#d3d3d3
+764,Plastic resins,"Wholesale, Retail, Transport",Capital formation,1893.9560496416825,#d3d3d3
+765,Rubber and plastic hoses and belts,Agriculture,Capital formation,1693.2948262085893,#b5cf6b
+766,Rubber and plastic hoses and belts,International imports,Agriculture,922.9327923981539,#b5cf6b
+767,Rubber and plastic hoses and belts,International imports,Capital formation,6337.533176825163,#b5cf6b
+768,Rubber and plastic hoses and belts,International imports,Final consumption expenditure,2153.0475426000407,#b5cf6b
+769,Rubber and plastic hoses and belts,International imports,International exports,7873.4429658438285,#b5cf6b
+770,Rubber and plastic hoses and belts,International imports,Manufacturing,8734.582338031129,#b5cf6b
+771,Rubber and plastic hoses and belts,International imports,Mining,832.7693263749394,#b5cf6b
+772,Rubber and plastic hoses and belts,International imports,Plastic product manufacturing,293.1205217379743,#b5cf6b
+773,Rubber and plastic hoses and belts,International imports,Plastic resin manufacturing,28.06794464688558,#b5cf6b
+774,Rubber and plastic hoses and belts,International imports,Services,1008.0978573198684,#b5cf6b
+775,Rubber and plastic hoses and belts,International imports,Utilities & Construction,4457.365377876252,#b5cf6b
+776,Rubber and plastic hoses and belts,International imports,"Wholesale, Retail, Transport",2827.584517621721,#b5cf6b
+777,Rubber and plastic hoses and belts,Manufacturing,Agriculture,183.22766903320982,#b5cf6b
+778,Rubber and plastic hoses and belts,Manufacturing,Capital formation,4758.1368772783735,#b5cf6b
+779,Rubber and plastic hoses and belts,Manufacturing,Final consumption expenditure,427.43944715976596,#b5cf6b
+780,Rubber and plastic hoses and belts,Manufacturing,International exports,1563.0960496581145,#b5cf6b
+781,Rubber and plastic hoses and belts,Manufacturing,Manufacturing,1734.0560168173836,#b5cf6b
+782,Rubber and plastic hoses and belts,Manufacturing,Mining,165.32772892114397,#b5cf6b
+783,Rubber and plastic hoses and belts,Manufacturing,Plastic product manufacturing,58.192525378031824,#b5cf6b
+784,Rubber and plastic hoses and belts,Manufacturing,Plastic resin manufacturing,5.572262806741173,#b5cf6b
+785,Rubber and plastic hoses and belts,Manufacturing,Services,200.13528837147248,#b5cf6b
+786,Rubber and plastic hoses and belts,Manufacturing,Utilities & Construction,884.9102285069396,#b5cf6b
+787,Rubber and plastic hoses and belts,Manufacturing,Waste,666.7547131224427,#b5cf6b
+788,Rubber and plastic hoses and belts,Manufacturing,"Wholesale, Retail, Transport",561.3536808157055,#b5cf6b
+789,Rubber and plastic hoses and belts,Mining,Capital formation,1527.8728888934836,#b5cf6b
+790,Rubber and plastic hoses and belts,Plastic product manufacturing,Agriculture,389.4913763326462,#b5cf6b
+791,Rubber and plastic hoses and belts,Plastic product manufacturing,Capital formation,3212.3183908183405,#b5cf6b
+792,Rubber and plastic hoses and belts,Plastic product manufacturing,Final consumption expenditure,908.618111290537,#b5cf6b
+793,Rubber and plastic hoses and belts,Plastic product manufacturing,International exports,3322.7101285183885,#b5cf6b
+794,Rubber and plastic hoses and belts,Plastic product manufacturing,Manufacturing,3686.123761721235,#b5cf6b
+795,Rubber and plastic hoses and belts,Plastic product manufacturing,Mining,351.44105157925543,#b5cf6b
+796,Rubber and plastic hoses and belts,Plastic product manufacturing,Plastic product manufacturing,123.70122329970789,#b5cf6b
+797,Rubber and plastic hoses and belts,Plastic product manufacturing,Plastic resin manufacturing,11.845090434957509,#b5cf6b
+798,Rubber and plastic hoses and belts,Plastic product manufacturing,Services,425.4323014195379,#b5cf6b
+799,Rubber and plastic hoses and belts,Plastic product manufacturing,Utilities & Construction,1881.0745377628214,#b5cf6b
+800,Rubber and plastic hoses and belts,Plastic product manufacturing,"Wholesale, Retail, Transport",1193.2827552954207,#b5cf6b
+801,Rubber and plastic hoses and belts,Plastic resin manufacturing,Capital formation,51.495954899798505,#b5cf6b
+802,Rubber and plastic hoses and belts,Services,Capital formation,1849.5462510072934,#b5cf6b
+803,Rubber and plastic hoses and belts,Utilities & Construction,Capital formation,1842.1644923059032,#b5cf6b
+804,Rubber and plastic hoses and belts,Utilities & Construction,Environment,41.98772062437852,#b5cf6b
+805,Rubber and plastic hoses and belts,Utilities & Construction,Waste,374.9251861497349,#b5cf6b
+806,Rubber and plastic hoses and belts,"Wholesale, Retail, Transport",Capital formation,5187.738775556316,#b5cf6b
+807,Waste and scrap of plastic and rubber,International imports,International exports,10892.176525813426,#843c39
+808,Waste and scrap of plastic and rubber,International imports,Manufacturing,8719.762387914401,#843c39
+809,Waste and scrap of plastic and rubber,International imports,Plastic product manufacturing,9345.465215345286,#843c39
+810,Waste and scrap of plastic and rubber,International imports,Plastic resin manufacturing,3409.246266899702,#843c39
+811,Waste and scrap of plastic and rubber,International imports,Services,128.4771358806907,#843c39
+812,Waste and scrap of plastic and rubber,Manufacturing,Capital formation,14054.795589061443,#843c39
+813,Waste and scrap of plastic and rubber,Plastic product manufacturing,Capital formation,15063.323682811742,#843c39
+814,Waste and scrap of plastic and rubber,Plastic product manufacturing,International exports,6664.186569866826,#843c39
+815,Waste and scrap of plastic and rubber,Plastic product manufacturing,Manufacturing,5335.033201147038,#843c39
+816,Waste and scrap of plastic and rubber,Plastic product manufacturing,Plastic product manufacturing,5717.858467466454,#843c39
+817,Waste and scrap of plastic and rubber,Plastic product manufacturing,Plastic resin manufacturing,2085.8873459677875,#843c39
+818,Waste and scrap of plastic and rubber,Plastic product manufacturing,Services,78.606475155994,#843c39
+819,Waste and scrap of plastic and rubber,Plastic resin manufacturing,Capital formation,5495.133612867489,#843c39
+820,Waste and scrap of plastic and rubber,Services,Capital formation,207.08361103668474,#843c39
+821,Wood-related products,Agriculture,Capital formation,45.99804250350842,#393b79
+822,Wood-related products,Agriculture,Environment,0.6967146363267718,#393b79
+823,Wood-related products,International imports,Agriculture,7.902882150811782,#393b79
+824,Wood-related products,International imports,Capital formation,1.2259095105320508,#393b79
+825,Wood-related products,International imports,Final consumption expenditure,68.13605824789407,#393b79
+826,Wood-related products,International imports,International exports,2134.199336010135,#393b79
+827,Wood-related products,International imports,Manufacturing,1326.604393935993,#393b79
+828,Wood-related products,International imports,Mining,4.260882238730252,#393b79
+829,Wood-related products,International imports,Plastic product manufacturing,29.33717590458266,#393b79
+830,Wood-related products,International imports,Services,5.521035353564346,#393b79
+831,Wood-related products,International imports,Utilities & Construction,2994.9963494981985,#393b79
+832,Wood-related products,International imports,"Wholesale, Retail, Transport",6.528714383478444,#393b79
+833,Wood-related products,Manufacturing,Agriculture,37.229752861907905,#393b79
+834,Wood-related products,Manufacturing,Capital formation,466.337847574295,#393b79
+835,Wood-related products,Manufacturing,Final consumption expenditure,409.2689115897711,#393b79
+836,Wood-related products,Manufacturing,International exports,11840.394836579853,#393b79
+837,Wood-related products,Manufacturing,Manufacturing,6655.7895571963445,#393b79
+838,Wood-related products,Manufacturing,Mining,20.548474902969346,#393b79
+839,Wood-related products,Manufacturing,Plastic product manufacturing,179.21770205522145,#393b79
+840,Wood-related products,Manufacturing,Services,44.50716472576618,#393b79
+841,Wood-related products,Manufacturing,Utilities & Construction,21133.9343422354,#393b79
+842,Wood-related products,Manufacturing,Waste,376.39716226555754,#393b79
+843,Wood-related products,Manufacturing,"Wholesale, Retail, Transport",35.421964391995246,#393b79
+844,Wood-related products,Mining,Capital formation,25.72955725013394,#393b79
+845,Wood-related products,Plastic product manufacturing,Agriculture,1.929503225935215,#393b79
+846,Wood-related products,Plastic product manufacturing,Capital formation,216.50129369978112,#393b79
+847,Wood-related products,Plastic product manufacturing,International exports,129.80664749043416,#393b79
+848,Wood-related products,Plastic product manufacturing,Manufacturing,96.28606026396523,#393b79
+849,Wood-related products,Plastic product manufacturing,Mining,1.1319901745802374,#393b79
+850,Wood-related products,Plastic product manufacturing,Plastic product manufacturing,10.879662582495833,#393b79
+851,Wood-related products,Plastic product manufacturing,Services,1.5169191543813747,#393b79
+852,Wood-related products,Plastic product manufacturing,Utilities & Construction,359.5023652392635,#393b79
+853,Wood-related products,Plastic product manufacturing,"Wholesale, Retail, Transport",1.4152680063173848,#393b79
+854,Wood-related products,Services,Capital formation,51.21608968689648,#393b79
+855,Wood-related products,Utilities & Construction,Capital formation,6958.755448244498,#393b79
+856,Wood-related products,Utilities & Construction,Environment,115.42067452362667,#393b79
+857,Wood-related products,Utilities & Construction,Waste,816.9332638086728,#393b79
+858,Wood-related products,"Wholesale, Retail, Transport",Capital formation,42.97095622413382,#393b79

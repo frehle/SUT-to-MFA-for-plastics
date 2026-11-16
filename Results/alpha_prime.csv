@@ -1,0 +1,145 @@
+,0
+Residential buildings,0.00564105502781403
+Industrial buildings (except mine buildings),0.0026437598735903215
+Office buildings,0.0024885219151837405
+"Shopping centres, plazas, malls and stores",0.0022243932113875844
+Other commercial buildings,0.0027470051483571723
+"Schools, colleges, universities and other educational buildings",0.0024006653755554034
+"Health care buildings, nursing homes and senior citizen homes",0.00228929638072489
+Other institutional buildings,0.00209904436512776
+"Highways, roads, streets, bridges and tunnels",0.0005568645187343783
+Other land transportation civil engineering works,0.000800470976178194
+Oil and gas extraction sites and structures,0.001578617500694034
+Other oil and gas engineering works,0.0009893023215475322
+Electric power engineering works,0.0014285345225263021
+Communications networks,0.006111995890984072
+Marine engineering works,0.00108211428509757
+Waterworks engineering works,0.004313781518895891
+Sewage engineering works,0.006750626034787859
+Mining engineering works,0.0013046295058228897
+Other civil engineering works,0.0012472304466723567
+"Fibre, yarn and thread",0.050920772543995595
+Fabrics,0.04741944378662545
+"Carpets, rugs and mats",0.055308569771255714
+Other textile furnishings,0.02025235763423054
+"Textile products, n.e.c.",0.028926671922680537
+"Men's, women's, boys' and girls' clothing",0.01005618880584946
+Infant clothing,0.014848979224751636
+Clothing accessories,0.015030528228350475
+Leather and dressed furs,0.0020028485478060507
+Footwear,0.030034576390419766
+"Suitcases, handbags and other leather and allied products",0.015013241358199068
+Veneer and plywood,0.0020660397157089404
+Wood trusses and engineered wood members,0.002050690711708236
+Reconstituted wood products,0.0034387604474359866
+Wood windows and doors,0.006717571406639936
+Prefabricated wood and manufactured (mobile) buildings and components,0.0040666226665766235
+"Wood products, n.e.c.",0.0013887255575030055
+Paperboard containers,0.0051695380367078065
+Paper office supplies,0.001021462081420298
+Disposable diapers and feminine hygiene products,0.03146616253623966
+Other converted paper products,0.0026869561103111212
+Waste and scrap of paper and paperboard,0.0009877931528674505
+Printed products,0.0020397358224436514
+Plastic resins,0.6571672621935054
+Artificial and synthetic fibres and filaments,0.18757402348592958
+"Paints, coatings and adhesive products",0.054077254608395214
+"Chemical products, n.e.c.",0.003469472030325698
+Plastic bags,0.24266159093663972
+Plastic films and non-rigid sheets,0.22625409335087482
+Plastic and foam building and construction materials,0.24273973868344695
+Plastic profile shapes,0.00032220239733462533
+Foam products (except for construction),0.18762942143879924
+Plastic bottles,0.2284336475030442
+Motor vehicle plastic parts,0.09557479129436737
+"Plastic products, n.e.c.",0.1529563919615887
+Rubber and plastic hoses and belts,0.025193715704402483
+Waste and scrap of plastic and rubber,0.30908001647266387
+Forged and stamped metal products,0.0011488021788001275
+"Prefabricated metal buildings and other non-wood buildings, and components",0.0027171879390493294
+Fabricated steel plate and other fabricated structural metal,0.0008876055525370779
+Metal windows and doors,0.0025062914902451313
+Other architectural metal products,0.0017387893640846703
+"Light gauge metal containers, crowns and closures",0.0027699322422954685
+"Boilers, tanks and heavy gauge metal containers",0.0016596197220062235
+"Builders, motor vehicle and other hardware",0.006648726606490304
+Springs and wire products,0.0013330319012820533
+Threaded metal fasteners and other turned metal products including automotive,0.000891436026645944
+"Hand tools, kitchen utensils and cutlery (except precious metal)",0.006076730668227162
+Metal valves and pipe fittings,0.002392480961888394
+Ball and roller bearings,0.0010409236200710275
+"Guns, ammunition and other munitions",0.0036161344701020424
+"Fabricated metal products, n.e.c.",0.0019404342347940783
+"Agricultural, lawn and garden machinery and equipment",0.0011719256367412705
+"Logging, mining and construction machinery and equipment",0.0012559422813983568
+Other industry-specific machinery,0.005311582232747132
+Commercial and service industry machinery,0.0023524256042251153
+"Industrial and commercial fans, blowers and air purification equipment",0.004753334445730574
+Heating and cooling equipment (except household refrigerators and freezers),0.0032371917902594845
+Metalworking machinery and industrial moulds,0.001802505304342004
+"Turbines, turbine generators, and turbine generator sets (except aircraft turbines)",0.0010206877134370672
+Other engine and power transmission equipment,0.003281844878094164
+Pumps and compressors (except fluid power),0.0028739418398283263
+Material handling equipment,0.0002518277581503317
+Other miscellaneous general-purpose machinery,0.002093165234364398
+"Computers, computer peripherals and parts",0.005124661138060097
+Telephone apparatus,0.011243569816875947
+Other communications equipment,0.0024717492110498565
+Audio and video equipment and unrecorded media,0.01047740807945735
+Navigational and guidance instruments,0.003482259519525659
+Medical devices,0.006480967087419126
+"Measuring, control and scientific instruments",0.001999618547333466
+"Printed and integrated circuits, semiconductors and printed circuit assemblies",0.0006260686981623832
+Other electronic components,0.0067898195261515745
+Electric light bulbs and tubes,0.014324193055192655
+Lighting fixtures,0.003374576793656121
+Small electric appliances,0.019886598540906665
+Major appliances,0.009779356040006171
+"Power, distribution and other transformers",0.0016617622487628723
+Electric motors and generators,0.0027772496360072446
+"Switchgear, switchboards, relays and industrial control apparatus",0.0024218631866187315
+Batteries and battery chargers,0.010065954122686037
+Communication and electric wire and cable,0.03594609084762525
+Wiring devices,0.02553597947881844
+Other electrical equipment and components,0.007865794218655683
+Passenger cars,0.008510063772150954
+"Light-duty trucks, vans and sport utility vehicles (SUVs)",0.010889423895936797
+Medium and heavy-duty trucks,0.004750430021589071
+Buses,0.003279018260524554
+Motor vehicle bodies and special purpose motor vehicles,0.004538398853571274
+Freight and utility trailers,0.003930999973078317
+"Motor homes, travel trailers and camping trailers",0.013264869943587117
+Motor vehicle gasoline engines and engine parts,0.004192801626041286
+Motor vehicle electrical and electronic equipment,0.015339969335080722
+Motor vehicle steering and suspension components,0.004677969406058699
+Motor vehicle brakes and brake systems,0.003515964598520498
+Motor vehicle transmission and drive train components,0.002021129403372101
+"Motor vehicle interior trim, seats and seat parts",0.043995154269104
+Motor vehicle metal stampings,0.0010024913325134516
+Other miscellaneous motor vehicle parts,0.0056156687909303
+Aircraft,0.0014527107057621842
+Aircraft engines,0.001729373534814033
+Aircraft parts and other aerospace equipment,0.005063998193487409
+"Locomotives, railway rolling stock, and rapid transit equipment",0.0010123215972414861
+Parts of railway rolling stock,0.0030402335050657347
+Ships,0.0035166521925657818
+Boats and personal watercraft,0.028149681394039602
+Other transportation equipment and related parts,0.0028907531738031843
+Wood cabinets and counter tops,0.00399077517075719
+Household furniture,0.00995185027219507
+"Institutional and other furniture, n.e.c.",0.01158694004729982
+Office furniture,0.008570589215262346
+Office and store fixtures,0.007686936924662757
+Mattresses and foundations,0.023330227605358134
+"Blinds, shades, and curtain fixtures",0.026864562959841243
+"Medical, dental and personal safety supplies, instruments and equipment",0.018113802564683184
+Jewellery and silverware,0.0009607900061501271
+Sporting and athletic goods,0.016402515423327785
+Toys and games,0.035285894599324914
+Office supplies (except paper),0.022794145864854464
+Signs,0.012054644280214187
+Other miscellaneous manufactured products,0.005760266944348115
+Used motor vehicles,0.0
+Other used consumer goods,0.0
+Operating supplies,0.0
+Office supplies,0.0
